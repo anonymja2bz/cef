@@ -17,7 +17,7 @@ The application has been successfully tested on the following hardware configura
 
 ```
 # Clone the repository
-git clone https://github.com/anonymous/cross-examination-framework.git
+git clone https://github.com/anonymja2bz/cef/cef.git
 cd cross-examination-framework
 
 # Create conda environment and install dependencies
